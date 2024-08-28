@@ -12,5 +12,5 @@ Meu nome é Maria Luiza
 
 @_maluxys
 
-![](https://github.com/user-attachments/assets/1dabca14-ba62-4fa3-bd0c-73c08e9eb311)
+
 ![image](https://github.com/user-attachments/assets/1dabca14-ba62-4fa3-bd0c-73c08e9eb311)
